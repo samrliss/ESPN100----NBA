@@ -1,4 +1,4 @@
-# ESPN100--->NBA
+# ESPN100 to the NBA
 To follow through with my hypothesis that Tony Bennett (the men's basketball coach of the University of Virginia) has been better than his Division I NCAA coaching counterparts at developing top high school basketball talent into NBA level prospects, I conducted exploratory data analysis using data that I had extracted from both espn.com as well as basketball-reference.com. 
 
 Using these two sources, I created a dataframe that provided the names of all top 100 high school basketball recruits from 2007-2015, the college they attended, and whether or not they made the NBA. To extract this data from these websites, I used the chrome extension SelectorGadget. Although frequency analysis suggested that Bennett had a higher successs rate at developing NBA talent than many of his peers, I could not reach any significant conclusions given the relatively small size of the data. 
