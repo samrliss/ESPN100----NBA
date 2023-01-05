@@ -1,1 +1,2 @@
-# ESPN100----NBA
+# ESPN100--->NBA
+To follow through with my hypothesis that the men's basketball coach of the University of Virginia has been better than his coaching counterparts at developing top high school basketball talent into NBA level prospects, I conducted exploratory data analysis using data that I had extracted from both espn.com as well as basketball-reference.com. To extract data from these websites, I used the chrome extension SelectorGadget. While this endeavor did not lead to any significant conclusions given the relatively small size of the data, my results inspired a feature article that I wrote for my university's studen-run newspaper, the Cavalier Daily. 
